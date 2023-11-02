@@ -1,5 +1,7 @@
 # collect_ipo_data
 
+Collection of scripts to collect and process IPO-related data from the SEC Edgar platform
+
 
 ## Quickstart
 
