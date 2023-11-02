@@ -18,3 +18,9 @@ Starting search for F-1s and S-1s for company cik=1841644
 Found the following F-1s and S-1s:
 https://www.sec.gov/Archives/edgar/data/1841644/0001213900-21-022408.txt
 ```
+
+Alternatively, you can pass the `-q` option to print only the URLs:
+```
+$ python3 get_forms_urls.py PICS -q
+https://www.sec.gov/Archives/edgar/data/1841644/0001213900-21-022408.txt
+```
