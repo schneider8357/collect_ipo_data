@@ -1,6 +1,8 @@
 # collect_ipo_data
 
-Collection of scripts to collect and process IPO-related data from the SEC Edgar platform
+Collection of scripts to collect and process IPO-related data from the SEC Edgar platform.
+
+The `forms_idx` example directory was collected in 2023 from the website <https://www.sec.gov/Archives/edgar/full-index/>.
 
 
 ## Quickstart
